@@ -1,0 +1,7 @@
+01.You are given an array of integers in which each subsequent value is not less than the previous value.write a function that takes array as an input and returns a new array with squares of each number sorted in ascedning order.
+
+Question - Breakdown :
+takes array as an input in a function
+returns new array
+square each number
+sort in ascending order
