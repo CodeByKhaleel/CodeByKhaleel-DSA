@@ -1,0 +1,2 @@
+An array is monotonic if it is either monotone increase or monotone 
+decreasing. An array is monotone increasing if all its elements from left to right are non-decreasing. an array is monotone decreasing if all its elements from left to right are non-increasing.Given an integer array return true if given array is monotonic,or false otherwise.
